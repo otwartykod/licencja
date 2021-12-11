@@ -1,0 +1,5 @@
+# GPL vs MIT
+
++  If you want to restrict the use of your modifications, then MIT is able to be more restrictive than the GPL for distribution and that might be what you're looking for.
+ 
+ + In case you want to ensure that the freedom of your software does not get restricted that much by the users you distribute it to, then you might want to release under GPL instead of MIT.
