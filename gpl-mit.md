@@ -54,3 +54,11 @@ Which means, it must be open-sourced, and the recipient gets all the same rights
 And that would include your proprietary code which would then no longer be proprietary - it becomes open source. 
 
 
+## Result of using MIT part of code:
+
+If you actually distribute your proprietary code that is using the MIT licensed code, 
+You do not have to make the code open source. 
+You can distribute it as a closed app where the code is encrypted or is a binary. 
+
+Including the MIT-licensed code can be encrypted, as long as it carries the MIT license notice. 
+
